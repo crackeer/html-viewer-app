@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-debug-42:/drawable_ic_delete.xml.flat",
+        "source": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-main-44:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.htmlbrowser.app-debug-42:/layout_activity_html_viewer.xml.flat",
+        "source": "com.example.htmlbrowser.app-main-44:/layout/activity_html_viewer.xml"
+    },
+    {
+        "merged": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-debug-42:/layout_activity_html_viewer.xml.flat",
+        "source": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-main-44:/layout/activity_html_viewer.xml"
+    },
+    {
+        "merged": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-debug-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-debug-42:/layout_item_archive.xml.flat",
+        "source": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-main-44:/layout/item_archive.xml"
+    },
+    {
+        "merged": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-debug-42:/drawable_ic_add.xml.flat",
+        "source": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-main-44:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-debug-42:/layout_activity_archive_list.xml.flat",
+        "source": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-main-44:/layout/activity_archive_list.xml"
+    },
+    {
+        "merged": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-debug-42:/xml_backup_rules.xml.flat",
+        "source": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-main-44:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-debug-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.htmlbrowser.app-debug-42:/layout_activity_archive_list.xml.flat",
+        "source": "com.example.htmlbrowser.app-main-44:/layout/activity_archive_list.xml"
+    },
+    {
+        "merged": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-debug-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-main-44:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-debug-42:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-main-44:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-debug-42:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/liuhu/.gradle/daemon/9.0.0/com.example.htmlbrowser.app-main-44:/xml/data_extraction_rules.xml"
+    }
+]
