@@ -4,7 +4,7 @@ package com.example.htmlbrowser.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -19,7 +19,7 @@ import java.lang.String;
 
 public final class ActivityArchiveListBinding implements ViewBinding {
   @NonNull
-  private final LinearLayout rootView;
+  private final RelativeLayout rootView;
 
   @NonNull
   public final RecyclerView archiveList;
@@ -30,7 +30,7 @@ public final class ActivityArchiveListBinding implements ViewBinding {
   @NonNull
   public final FloatingActionButton fabAdd;
 
-  private ActivityArchiveListBinding(@NonNull LinearLayout rootView,
+  private ActivityArchiveListBinding(@NonNull RelativeLayout rootView,
       @NonNull RecyclerView archiveList, @NonNull TextView emptyView,
       @NonNull FloatingActionButton fabAdd) {
     this.rootView = rootView;
@@ -41,7 +41,7 @@ public final class ActivityArchiveListBinding implements ViewBinding {
 
   @Override
   @NonNull
-  public LinearLayout getRoot() {
+  public RelativeLayout getRoot() {
     return rootView;
   }
 
@@ -84,7 +84,7 @@ public final class ActivityArchiveListBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityArchiveListBinding((LinearLayout) rootView, archiveList, emptyView,
+      return new ActivityArchiveListBinding((RelativeLayout) rootView, archiveList, emptyView,
           fabAdd);
     }
     String missingId = rootView.getResources().getResourceName(id);
